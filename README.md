@@ -8,9 +8,7 @@ An elegant, high-performance, and responsive personal landing page designed for 
 
 *A preview of the optimized responsive interface:*
 
-| Desktop Showcase |
-| :---: | :---: |
-| `[Screenshot: 
+
 <img width="1902" height="900" alt="image" src="https://github.com/user-attachments/assets/594c7138-3657-4fe1-9fce-ab77bfd72c01" />
 
 
