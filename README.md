@@ -8,9 +8,11 @@ An elegant, high-performance, and responsive personal landing page designed for 
 
 *A preview of the optimized responsive interface:*
 
-| Desktop Showcase | Mobile Device View |
+| Desktop Showcase |
 | :---: | :---: |
-| `[Screenshot: Desktop Interface]` | `[Screenshot: Responsive Mobile Layout]` |
+| `[Screenshot: 
+![Uploading image.png…]()
+
 
 ---
 
