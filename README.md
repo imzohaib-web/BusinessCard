@@ -11,7 +11,8 @@ An elegant, high-performance, and responsive personal landing page designed for 
 | Desktop Showcase |
 | :---: | :---: |
 | `[Screenshot: 
-![Uploading image.png…]()
+<img width="1902" height="900" alt="image" src="https://github.com/user-attachments/assets/594c7138-3657-4fe1-9fce-ab77bfd72c01" />
+
 
 
 ---
